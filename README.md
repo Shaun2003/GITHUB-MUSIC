@@ -2,7 +2,9 @@
 ![banner](https://github.com/Shaun2003/MUSICA-website/assets/122936635/5c0ab33b-8da4-44c3-845c-a1781b6d682f)
       MUSICA-WEBSITE
       
-View Demo · Report Bug · Request Feature
+View Demo 
+· Report Bug 
+· Request Feature
 license-shield LinkedIn
 Table of Contents
 About The Project
@@ -51,12 +53,17 @@ Link
 https
 Contact
 Twitter - @Shaun_Mada
+
 Instagram - shaun.se
+
 Facebook - Shaun Sean
+
 github - Shaun2003
+
 Linkedln - Tshimangadzo Shaun
 
-Portfolio Link: Shaun2003
 
-Blogs: Hashnode
+Project Link: file:///C:/Users/SHAUN%20MADABENI/Desktop/GITHUB%20MUSIC/index.html
+
+
 
