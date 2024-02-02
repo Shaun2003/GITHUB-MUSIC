@@ -1,4 +1,3 @@
-
 ![banner](https://github.com/Shaun2003/MUSICA-website/assets/122936635/5c0ab33b-8da4-44c3-845c-a1781b6d682f)
 #                  MUSICA-WEBSITE
       
@@ -41,7 +40,7 @@ github - Shaun2003
 Linkedln - Tshimangadzo Shaun
 
 
-# Project Link: 
+# Project Link: https://shaun2003.github.io/GITHUB-MUSIC/
 
 
 
